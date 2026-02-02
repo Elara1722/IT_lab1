@@ -1,1 +1,0 @@
-This project's version of Django is 2.1.5 (based on the lab1 )
